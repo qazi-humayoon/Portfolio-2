@@ -30,5 +30,7 @@ The portfolio website template can be customized in various ways to align with y
 - Responsive Design: Ensure that the website is responsive and mobile-friendly by adapting the layout and styles for different screen sizes.
 Feel free to explore and experiment with the code to personalize your portfolio website and make it stand out.
 
+---
+
 ## Acknowledgements
 This project is created by me with the design template from dribble.
